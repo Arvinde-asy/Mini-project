@@ -1,0 +1,10 @@
+EMP_ID:-873003
+MINI_PROJECT Topic "TRIP AUTOMATION"
+I am using the Website YATRA.com to Automate and for storing the detail of flights i use the excel file "FlightDetail.xlsx",and
+I wrote the different method for different functionalities ,here i use properties file"Tripesource.properties" as a resource file.
+I use testNg here for the reporting purpose ,the reports are in the "test_output" folder.
+Here i am using the browser Chrome and Opera for testing.
+
+NAME-Arvind Singh Yadav
+TRAINER NAME-Pragati manohar palwe(825804)
+MENTOR NAME-vidhaya Srinivasan(184389)
